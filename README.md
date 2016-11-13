@@ -19,7 +19,7 @@ Easy, or?
 
 ## Usage
 
-```JavaScript
+```js
 const stringIndent = require('string-indent');
 
 // simple
