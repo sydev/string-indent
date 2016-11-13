@@ -1,6 +1,10 @@
 (function() {
   'use strict';
 
+  /**
+   * @version 0.1.0
+   */
+
 
   const defaultOptions = {
     multiline: false,
