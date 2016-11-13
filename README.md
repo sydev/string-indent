@@ -40,6 +40,10 @@ Returns a single indent value or an array of indents (if multiline option is act
 
 ## Development
 
+In the ```test``` directory are a few ```test.*``` files. Be careful, if you´ll
+open them in your editor or IDE. The indents could be changed through settings of
+those.
+
 Run test:
 ```
 $ npm test
