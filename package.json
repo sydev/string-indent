@@ -1,6 +1,6 @@
 {
   "name": "string-indent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy way to get the indent of a string, whether file content or simple string.",
   "main": "index.js",
   "scripts": {

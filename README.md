@@ -51,4 +51,5 @@ $ npm test
 
 ## Changelog
 
+- ```0.1.1``` - Some comment improvements and warnings
 - ```0.1.0``` - Initial release
