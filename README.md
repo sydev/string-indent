@@ -12,7 +12,7 @@ Easy way to get the indent of a string, whether file content or simple string.
 ## Installation
 
 ```
-npm install string-indent
+$ npm install string-indent
 ```
 
 Easy, or?
@@ -42,7 +42,7 @@ Returns a single indent value or an array of indents (if multiline option is act
 
 Run test:
 ```
-npm test
+$ npm test
 ```
 
 ## Changelog
