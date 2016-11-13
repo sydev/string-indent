@@ -1,0 +1,22 @@
+{
+  "name": "string-indent",
+  "version": "0.1.0",
+  "description": "Easy way to get the indent of a string, whether file content or simple string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": ["string", "indent"],
+  "author": {
+    "name": "Dominik Winter",
+    "email": "dominik.winter92@gmail.com"
+  },
+  "license": "MIT",
+  "jshintConfig": {
+    "esnext": true
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
