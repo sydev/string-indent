@@ -6,7 +6,15 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
-  "keywords": ["string", "str", "indent", "text", "align", "line", "multiline"],
+  "keywords": [
+    "string",
+    "str",
+    "indent",
+    "text",
+    "align",
+    "line",
+    "multiline"
+  ],
   "author": {
     "name": "Dominik Winter",
     "email": "dominik.winter92@gmail.com"
